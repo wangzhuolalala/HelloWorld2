@@ -6,3 +6,5 @@ int main() {
     std::cout << "现在是工作站2在操作" << std::endl;
     return 0;
 }
+
+// 增加一个welcome函数
